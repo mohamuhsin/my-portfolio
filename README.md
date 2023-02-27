@@ -1,6 +1,6 @@
 # My Project Portfolio Built With React
 
-This is my project portfolio built with react and Next.js showing everything i do, did throughout the years and everything aout m
+This is my project portfolio built with react and Next.js showing everything i do, did throughout the years and everything about me.
 
 to look through it, check out at https://mohamuhsin.com.
 
