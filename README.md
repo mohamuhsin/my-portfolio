@@ -1,4 +1,4 @@
-# My Portfolio Built With React
+# My Project Portfolio Built With React
 
 This portfolio built with react and Next.js showing everything i do and did throughout the years.
 
