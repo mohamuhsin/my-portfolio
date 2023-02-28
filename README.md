@@ -4,4 +4,4 @@ This is my project portfolio built with react and Next.js showing everything i d
 
 to look through it, check out at https://mohamuhsin.com.
 
-For any inquiries or comment, email me at moha@mohamuhsin.com, i will be glad.
+For any inquiries or comment, email me at moha@iventics.com, i will be glad.
